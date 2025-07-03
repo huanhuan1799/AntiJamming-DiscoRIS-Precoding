@@ -6,7 +6,7 @@ Run "Jamming_Anti_Jamming_Persistent_HighPower.m" and "Jamming_Anti_Jamming_Temp
 
 *****************************************************************************************************************************************************************
 
-If you use this simulation code package in any way, please cite our related paper. For more details about the DISCO idea, please refer to our paper as follows:
+If you use this simulation code package in any way, please cite our related papers. For more details about the DISCO idea, please refer to our published papers as follows:
 
 H. Huang, L. Dai, H. Zhang, C. Zhang, Z. Tian, Y. Cai, A. L. Swindlehurst, and Z. Han, “DISCO might not be funky: Random intelligent reflective surface configurations that attack,” IEEE Wireless Commun., vol. 31, no. 5, pp. 76-82, Oct. 2024
 
